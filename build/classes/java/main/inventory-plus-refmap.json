@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "furnygo/invplus/mixin/ClientPlayerInteractionManagerMixin": {
+      "clickSlot": "Lnet/minecraft/class_636;method_2906(IIILnet/minecraft/class_1713;Lnet/minecraft/class_1657;)V"
+    },
+    "furnygo/invplus/mixin/PlayerArmorSlotMixin": {
+      "canInsert": "Lnet/minecraft/class_1723$1;method_7680(Lnet/minecraft/class_1799;)Z",
+      "net/minecraft/screen/PlayerScreenHandler$1": "net/minecraft/class_1723$1",
+      "canTakeItems": "Lnet/minecraft/class_1723$1;method_7674(Lnet/minecraft/class_1657;)Z",
+      "getMaxItemCount": "Lnet/minecraft/class_1723$1;method_7675()I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "furnygo/invplus/mixin/ClientPlayerInteractionManagerMixin": {
+        "clickSlot": "Lnet/minecraft/class_636;method_2906(IIILnet/minecraft/class_1713;Lnet/minecraft/class_1657;)V"
+      },
+      "furnygo/invplus/mixin/PlayerArmorSlotMixin": {
+        "canInsert": "Lnet/minecraft/class_1723$1;method_7680(Lnet/minecraft/class_1799;)Z",
+        "net/minecraft/screen/PlayerScreenHandler$1": "net/minecraft/class_1723$1",
+        "canTakeItems": "Lnet/minecraft/class_1723$1;method_7674(Lnet/minecraft/class_1657;)Z",
+        "getMaxItemCount": "Lnet/minecraft/class_1723$1;method_7675()I"
+      }
+    }
+  }
+}

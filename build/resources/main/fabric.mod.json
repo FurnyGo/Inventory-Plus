@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "invplus",
+  "version": "1.0.0",
+
+  "name": "Inventory Plus",
+  "description": "Inventory Tweaks from MeteorClient",
+  "authors": [
+    "FurnyGo",
+    "19MisterX98"
+  ],
+  "contact": {
+    "sources": "https://github.com/FurnyGo/Inventory-Plus"
+  },
+
+  "license": "GPL-3.0",
+  "icon": "assets/invplus/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "furnygo.invplus.InventoryPlus"
+    ]
+  },
+  "mixins": [
+    "invplus.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
