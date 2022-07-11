@@ -6,8 +6,8 @@
   "mixins": [
   ],
   "client": [
-    "PlayerArmorSlotMixin",
-    "ClientPlayerInteractionManagerMixin"
+    "ClientPlayerInteractionManagerMixin",
+    "PlayerArmorSlotMixin"
   ],
   "injectors": {
     "defaultRequire": 1

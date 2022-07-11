@@ -1,0 +1,3 @@
+v1	named	intermediary
+METHOD	furnygo/invplus/mixin/ClientPlayerInteractionManagerMixin	()V	syncSelectedSlot	method_2911
+METHOD	furnygo/invplus/mixin/ClientPlayerInteractionManagerMixin	(IIILnet/minecraft/screen/slot/SlotActionType;Lnet/minecraft/entity/player/PlayerEntity;)V	clickSlot	method_2906
