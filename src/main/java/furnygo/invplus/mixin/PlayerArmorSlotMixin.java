@@ -8,7 +8,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 //======================================================
 //
-//     Original code in MeteorClient by 19MisterX98
+//     Original code by 19MisterX98
 //
 //======================================================
 @Mixin(targets = "net/minecraft/screen/PlayerScreenHandler$1")
