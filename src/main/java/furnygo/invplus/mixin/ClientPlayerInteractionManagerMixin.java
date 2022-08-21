@@ -13,7 +13,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 //======================================================
 //
-//     Original code in MeteorClient by 19MisterX98
+//     Original code by 19MisterX98
 //
 //======================================================
 @Mixin(ClientPlayerInteractionManager.class)
