@@ -5,5 +5,5 @@
 5opka first reaction - [click](https://clips.twitch.tv/IgnorantSparklyCougarTBCheesePull-MnrpetdYk_3p2llg)  
 PWGood first reaction - [click](https://clips.twitch.tv/AliveMotionlessSageNotLikeThis-DZvB80pcFTShOxqc)  
 <h1>Inventory Plus</h1>
-<h3>Now you can use head armor slot for your items in minecraft 1.18 and higher</h3>
+<h3>Now you can use head armor slot for your items in minecraft 1.18-1.20.4</h3>
 </div>
